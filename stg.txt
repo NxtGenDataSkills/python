@@ -1,0 +1,33 @@
+# python-beginner
+
+Topics
+
+* Python Introduction
+* Basics of Python Programming - Expressions, Variables and Printing Output
+* Python Environment
+* Python Operators - Python Assignment Operator, Relational and Logical Operators, Short Circuit Operators
+* Python Conditionals and If Statement
+* Methods - Parameters, Arguments and Return Values
+* An Overview Of Python Platform
+* Object Oriented Programming - Class, Object, State and Behavior
+* Basics of OOPS - Encapsulation, Inheritance and Abstract Class.
+* Basics about Python Data Types
+* Basics about Python Built in Modules
+* Conditionals with Python - If Else Statement, Nested If Else
+* Loops - For Loop, While Loop in Python, Break and Continue
+* Immutablity of Python Basic Types
+* Python Data Structures - List, Set, Dictionary and Tuples
+* Basics of Designing a Class - Class, Object, State and Behavior. Deciding State and Constructors.
+* Error Handling
+
+
+1. Load csv file to postgre database
+2.
+
+
+* To include
+
+1. Excercise/short project after every small topic
+2. 
+
+youtube: https://www.udemy.com/course/the-complete-python-course/
