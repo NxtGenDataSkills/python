@@ -1,9 +1,10 @@
-# python-beginner
+# python
 
+# Beginner
 ## Content
 
 * Python Introduction
-    * Why python ?
+    * Why Python?
 * Python Environment
     * An Overview Of Python Platform
 * Basics of Python Programming
@@ -14,7 +15,7 @@
     * String formatting
 * Python Operators
     * Python Assignment Operator
-    * and ,or,boolean operator
+    * and, or, boolean operator
     * Relational
     * Logical Operators 
     * Short Circuit
@@ -48,19 +49,20 @@
     * For Loop 
     * While Loop in Python
     * Break and Continue
-* Immutablity of Python Basic Types
+* Immutability of Python Basic Types
 * Modules and Packages
-    * Built in Modules
+    * Built-in Modules
     * Building Custom Modules
 
-* Advanced
+  # Advanced
+  
   * File Operations
-      *  Reading CSV and Json files
-      *  Example: CSV to Json convertor
+      *  Reading CSV and JSON files
+      *  Example: CSV to JSON converter
   * Interacting with databases using Python
   * Logging
   * Generators
-  * Decorators
+  * Iterators
   * Functional Programming
     * Functions as objects
   * Error Handling
